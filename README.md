@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**rene-roid/rene-roid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Yumeko bot and Yumeko's web
@@ -13,5 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Discord: Yuuki#0220
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <img src = "https://github-readme-stats.vercel.app/api?username=rene-roid&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
