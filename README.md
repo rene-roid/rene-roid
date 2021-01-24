@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Yumeko bot and Yumeko's web
+- 🔭 I’m currently working on Yumeko Discord bot and Yumeko's web
 - 🌱 I’m currently learning Javascript and python
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
