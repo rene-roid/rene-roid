@@ -1,4 +1,4 @@
-### Hi my pen-name is Yuuki
+### Hello I am Yuuki
 
 I am learning JavaScript and I want to learn python to. I am currently working with discord bots. Hope you have a great day.
 
