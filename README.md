@@ -22,3 +22,4 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rene-roid&show_icons=true&theme=tokyonight&locale=en" alt="rene-roid" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rene-roid&theme=dark" alt="rene-roid" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rene-roid&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="rene-roid" /></p>
