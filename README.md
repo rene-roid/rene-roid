@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **CSS, JavaScript and Python**
 
-- 👨‍💻 All of my projects are available at [ummm](ummm)
+- 👨‍💻 All of my projects are available at ummm [here?](https://github.com/rene-roid)
 
 - 💬 Ask me about **nothing**
 
