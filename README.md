@@ -1,4 +1,4 @@
-<h2> Hi, I'm Yuuki! <img src="https://emoji.gg/assets/emoji/1317_intslUrarakaSleepy.gif" width="35"> <div align="right"> Discord: Yuuki#0220</div>
+<h2> Hi, I'm Yuuki! <img src="https://emoji.gg/assets/emoji/1317_intslUrarakaSleepy.gif" width="35">
 <img align='right' src="https://avatars.githubusercontent.com/u/52652158?v=4" width="230" style="border-radius: 100%;">
 
 
