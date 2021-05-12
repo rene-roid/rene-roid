@@ -2,7 +2,7 @@
 <img align='right' src="https://avatars.githubusercontent.com/u/52652158?v=4" width="230" style="border-radius: 100%;">
 <h3 align="right"> Contact me: </h3>
 <div align="right">
-<img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"/>Discord: Yuuki#0220
+<img alt="Yuuki's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"/>Discord: Yuuki#0220
    </div>
 
 
