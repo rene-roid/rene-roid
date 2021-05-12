@@ -25,4 +25,4 @@ const hello = {
 ```
 
 <br><br>
-![Yuuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=rene-roid&show_icons=true&theme=tokyonight) <img align="left" src="https://media.discordapp.net/attachments/646342392646991892/841967665005330453/641050A2-0147-49E6-ADFA-BF8A69E385CB.jpeg">
+![Yuuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=rene-roid&show_icons=true&theme=tokyonight) <img align="left" src="https://media.discordapp.net/attachments/646342392646991892/841967665005330453/641050A2-0147-49E6-ADFA-BF8A69E385CB.jpeg" width="300">
