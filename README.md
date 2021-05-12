@@ -24,7 +24,7 @@ const hello = {
 
 
 
-<img align="right" alt="Yuuki's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"/>Discord: Yuuki#0220</div>
+<img align="left" alt="Yuuki's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"/>Discord: Yuuki#0220</div>
 
 
 ![641050A2-0147-49E6-ADFA-BF8A69E385CB](https://user-images.githubusercontent.com/52652158/117948870-d5efa380-b311-11eb-8f4b-f8002e3912b9.jpeg)
