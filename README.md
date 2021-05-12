@@ -1,4 +1,4 @@
-<h2> Hi, I'm Yuuki! <img src="https://emoji.gg/assets/emoji/1317_intslUrarakaSleepy.gif" width="35"> </h2><img align="right" alt="Yuuki's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"/><p align="right">Discord: Yuuki#0220</p>
+<h2> Hi, I'm Yuuki! <img src="https://emoji.gg/assets/emoji/1317_intslUrarakaSleepy.gif" width="35"> <p align="right"> Discord: Yuuki#0220</p>
 <img align='right' src="https://avatars.githubusercontent.com/u/52652158?v=4" width="230" style="border-radius: 100%;">
 
 
