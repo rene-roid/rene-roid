@@ -6,8 +6,8 @@
 <li> Programming </li>
 <li> Thinking </li>
 <li> English </li>
-   <br>
-<img alt="Yuuki's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"/>Discord: Yuuki#0220
+   <br><div align="right">
+<img alt="Yuuki's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"/>Discord: Yuuki#0220</div>
 <br>
 
 ```javascript
