@@ -25,4 +25,4 @@ const hello = {
 ```
 
 <br><br>
-![641050A2-0147-49E6-ADFA-BF8A69E385CB](https://user-images.githubusercontent.com/52652158/117948870-d5efa380-b311-11eb-8f4b-f8002e3912b9.jpeg)
+![641050A2-0147-49E6-ADFA-BF8A69E385CB](https://user-images.githubusercontent.com/52652158/117948870-d5efa380-b311-11eb-8f4b-f8002e3912b9.jpeg)![Yuuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=rene-roid&show_icons=true&theme=tokyonight)
