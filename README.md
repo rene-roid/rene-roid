@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuuki 😎👊</h1>
-<h3 align="center">A cool junior programer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rene-roid&label=Profile%20views&color=0e75b6&style=flat" alt="rene-roid" /> </p>
+<h3 align="center">sup</h3>
 
 - 🔭 I’m currently working on uhhhh [idk](https://github.com/rene-roid/idk)
 
