@@ -13,7 +13,7 @@
 ### A little bit more about me
 ```javascript
 const hello = {
-  pronouns: "He" | "Him",
+  pronouns: "He",
   code: [HTML, CSS, Javascript],
   tools: ["Node", "AWS", "Linux", "MongoDB", "PhotoShop", "Unity"],
   learning: [Python, Javascript, CSS],
