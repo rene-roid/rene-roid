@@ -13,13 +13,12 @@
 ### A little bit more about me
 ```javascript
 const hello = {
-  pronouns: "He",
+  pronouns: ["He, "It", "That"],
   code: [HTML, CSS, Javascript],
   tools: ["Node", "AWS", "Linux", "MongoDB", "PhotoShop", "Unity"],
-  learning: [Python, Javascript, CSS],
+  learning: [JavaScript],
   myProjects: {
-                DiscordBot: "idk",
-                Website: "My portfolio"
+                Nothing xd
               }
 }
 ```
