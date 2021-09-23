@@ -1,4 +1,4 @@
-<h2> Hi, I'm Yuuki (On the internet)! <img src="https://emoji.gg/assets/emoji/1317_intslUrarakaSleepy.gif" width="35">
+<h2> Hi, I'm Yuuki! (Only on the internet) <img src="https://emoji.gg/assets/emoji/1317_intslUrarakaSleepy.gif" width="35">
 <img align='right' src="https://avatars.githubusercontent.com/u/52652158?v=4" width="230" style="border-radius: 100%;">
 
 
