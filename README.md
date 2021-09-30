@@ -14,9 +14,9 @@
 ```javascript
 const hello = {
   pronouns: ["He, "It", "That"],
-  code: [HTML, CSS, Javascript],
-  tools: ["Node", "AWS", "Linux", "MongoDB", "PhotoShop", "Unity"],
-  learning: [JavaScript],
+  code: [ahhh yes code],
+  tools: "😳",
+  learning: "😏",
   myProjects: {
                 Nothing xd
               }
