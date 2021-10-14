@@ -13,7 +13,6 @@
 ### A little bit more about me
 ```javascript
 const hello = {
-  pronouns: ["He, "It", "That"],
   code: [ahhh yes code],
   tools: "😳",
   learning: "😏",
