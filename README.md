@@ -17,7 +17,7 @@ const hello = {
   tools: "😳",
   learning: "😏",
   myProjects: {
-                Nothing xd
+                Making a bullet hell
               }
 }
 ```
