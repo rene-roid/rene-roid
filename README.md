@@ -15,9 +15,10 @@
 const hello = {
   code: [ahhh yes code],
   tools: "😳 Unity, Visual Studio, IntelliJ",
-  learning: "😏 C#, C++ and Java",
+  learning: "😏 C#, C++, PHP and Java",
   myProjects: {
-                Making my first 3D FPS game
+                "Making my first 3D FPS game",
+                "Pacman in C++"
               }
 }
 ```
