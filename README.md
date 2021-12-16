@@ -14,10 +14,10 @@
 ```javascript
 const hello = {
   code: [ahhh yes code],
-  tools: "😳",
-  learning: "😏",
+  tools: "😳 Unity, Visual Studio, IntelliJ",
+  learning: "😏 C#, C++ and Java",
   myProjects: {
-                Making a bullet hell
+                Making my first 3D FPS game
               }
 }
 ```
