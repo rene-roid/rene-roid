@@ -17,7 +17,7 @@ const hello = {
   tools: "😳 Unity, Visual Studio, VS Code, IntelliJ",
   learning: "😏 C#, C++, PHP, SQL, Java and JavaScript",
   myProjects: {
-                "Food Hunt GameJam"
+                "My Portfolio"
               }
 }
 ```
