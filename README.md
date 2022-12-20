@@ -1,4 +1,4 @@
-<h2> Hi, I'm Yuuki! <img src="https://emoji.gg/assets/emoji/1317_intslUrarakaSleepy.gif" width="35">
+<h2> Hi, I'm Yuuki! <!--<img src="https://emoji.gg/assets/emoji/1317_intslUrarakaSleepy.gif" width="35">--><img src="https://media.tenor.com/7m-L_kQ0NgQAAAAC/among-us.gif" width="35">
 <img align='right' src="https://avatars.githubusercontent.com/u/52652158?v=4" width="230" style="border-radius: 100%;">
 
 
@@ -17,7 +17,7 @@ const hello = {
   tools: "😳 Unity, Visual Studio, VS Code, IntelliJ",
   learning: "😏 C#, C++, PHP, SQL, Java and JavaScript",
   myProjects: {
-                "My Portfolio"
+                "Delta Time"
               }
 }
 ```
