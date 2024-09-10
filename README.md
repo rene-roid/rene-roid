@@ -1,26 +1,33 @@
-<h2> Hi, I'm Fernando! <!--<img src="https://emoji.gg/assets/emoji/1317_intslUrarakaSleepy.gif" width="35">--><img src="https://media.tenor.com/7m-L_kQ0NgQAAAAC/among-us.gif" width="45">
-<img align='right' src="https://avatars.githubusercontent.com/u/52652158?v=4" width="230" style="border-radius: 100%;">
+
+<h2>  <img src="https://emoji.gg/assets/emoji/1317_intslUrarakaSleepy.gif" width="35"><img align='right' src="https://cdn.discordapp.com/emojis/1249811174653038602.gif?size=96&quality=lossless" width="230">
 
 
 ### Things that i am bad:
-<li> Programming </li>
-<li> Thinking </li>
-<li> English </li>
+<li> <b> Programming: </b> If it works, it works. No need to ask why. 🤷‍♂️ </li>
+<li> <b> Thinking: </b> Got a degree in Googling code snippets. </li>
+<li> <b> Teamwork: </b> I'm a team player, as long as I'm the only one on the team. </li>
 
-<br>
-
+<img src="ocean.svg" width="100%">
 
 ### A little bit more about me
-```javascript
-const hello = {
-  code: [ahhh yes code],
-  tools: "😳 Unity, Visual Studio, VS Code, IntelliJ",
-  learning: "😏 C#, C++, PHP, SQL, Java and JavaScript",
-  myProjects: {
-                "Delta Time"
-              }
+```c
+#include <stdio.h>
+
+int main() {
+    const char* code[] = {"C#", "SQL", "Java", "JavaScript", "TypeScript", "React"};
+    const char* learning = "C, C++, PHP";
+    const char* workingOn = "Personal Projects";
+    const char* interests = "Game Development (Unity)";
+
+    printf("Code: ");
+    for(int i = 0; i < 6; i++) {
+        printf("%s ", code[i]);
+    }
+    printf("\nLearning: %s\n", learning);
+    printf("Currently Working On: %s\n", workingOn);
+    printf("Interests: %s\n", interests);
+
+    return 0;
 }
 ```
-
-<br><br>
-![Yuuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=rene-roid&show_icons=true&theme=tokyonight) <img align="left" src="https://media.discordapp.net/attachments/646342392646991892/841967665005330453/641050A2-0147-49E6-ADFA-BF8A69E385CB.jpeg" width="300">
+<img src="wave_animation_dark.svg" width="100%" style="transform: translateY(-200px); background-color: transparent;">
