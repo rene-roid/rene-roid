@@ -5,7 +5,7 @@
 
 ### Things that i am bad:
 <li> <b> Programming: </b> If it works, it works. No need to ask why. 🤷‍♂️ </li>
-<li> <b> Thinking: </b> Got a degree in Googling code snippets. </li>
+<li> <b> Problem Solving: </b> Got a degree in Googling code snippets. </li>
 <li> <b> Teamwork: </b> I'm a team player, as long as I'm the only one on the team. </li>
 
 <img src="ocean.svg" width="100%">
@@ -19,6 +19,7 @@ int main() {
     const char* learning = "C, C++, PHP";
     const char* workingOn = "Personal Projects";
     const char* interests = "Game Development (Unity)";
+    const char* status = "Employed (taken)";
 
     printf("Code: ");
     for(int i = 0; i < 6; i++) {
